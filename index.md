@@ -1,5 +1,2 @@
-# Introduction
-
--> Hey!
-
-Added more stuff: for testing!
+# Centralized Location of Docs
+Here contains the information of all the docs

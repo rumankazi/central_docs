@@ -1,0 +1,5 @@
+main:
+  - title: "Index"
+    url: /index.md
+  - title: "About"
+    url: /about/
